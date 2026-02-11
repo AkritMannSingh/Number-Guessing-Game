@@ -9,7 +9,7 @@ int main()
     printf("=========================================\n\n");
 
     printf("🗣️ I'm thinking of a number between 0 and 100.\n");
-    printf("Can you guess what it is?\n\n");
+    printf("Can you guess what it i?\n\n");
 
     srand(time(NULL));
     int random_num = rand() % 101;  
